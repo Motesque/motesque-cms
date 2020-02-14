@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: MLab Running Team
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: MLab Running Team
+subheading: Wir suchen Kandidaten für unser MLab Running Team
 mainpitch:
   title: Why Kaldi
   description: >
